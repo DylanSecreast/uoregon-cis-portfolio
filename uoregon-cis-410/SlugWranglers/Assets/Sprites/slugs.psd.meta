@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: ed000fecd5df841edb7e492245f4d4b5
+timeCreated: 1496374034
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slugs_0
+    21300002: slugs_1
+    21300004: slugs_2
+    21300006: slugs_3
+    21300008: slugs_4
+    21300010: slugs_5
+    21300012: slugs_6
+    21300014: slugs_7
+    21300016: slugs_8
+    21300018: slugs_9
+    21300020: slugs_10
+    21300022: slugs_11
+    21300024: slugs_12
+    21300026: slugs_13
+    21300028: slugs_14
+    21300030: slugs_15
+    21300032: slugs_16
+    21300034: slugs_17
+    21300036: slugs_18
+    21300038: slugs_19
+    21300040: slugs_20
+    21300042: slugs_21
+    21300044: slugs_22
+    21300046: slugs_23
+    21300048: slugs_24
+    21300050: slugs_25
+    21300052: slugs_26
+    21300054: slugs_27
+    21300056: slugs_28
+    21300058: slugs_29
+    21300060: slugs_30
+    21300062: slugs_31
+    21300064: slugs_32
+    21300066: slugs_33
+    21300068: slugs_34
+    21300070: slugs_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slugs_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3072
+        width: 680
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_1
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3072
+        width: 677
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_2
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3062
+        width: 666
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_3
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 3062
+        width: 646
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_4
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 3062
+        width: 667
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_5
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 3072
+        width: 682
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2428
+        width: 680
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_7
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2428
+        width: 677
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_8
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2427
+        width: 666
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_9
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 2427
+        width: 636
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_10
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 2427
+        width: 657
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_11
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 2428
+        width: 692
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1911
+        width: 680
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1911
+        width: 677
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_14
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1901
+        width: 666
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_15
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1901
+        width: 646
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_16
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1901
+        width: 667
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_17
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 1911
+        width: 682
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1267
+        width: 680
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_19
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1267
+        width: 677
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_20
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1266
+        width: 666
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_21
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1266
+        width: 636
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_22
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1266
+        width: 657
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_23
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1267
+        width: 692
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 772
+        width: 680
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_25
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 772
+        width: 677
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_26
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 762
+        width: 666
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_27
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 762
+        width: 646
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_28
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 762
+        width: 667
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_29
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 772
+        width: 682
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 680
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 127
+        width: 677
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_32
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 127
+        width: 666
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_33
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 127
+        width: 636
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_34
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 127
+        width: 657
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugs_35
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 127
+        width: 692
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

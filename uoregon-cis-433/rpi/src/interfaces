@@ -1,0 +1,17 @@
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# Static IP
+iface eth0 inet static
+        address XX.XX.XX.XX
+        netmask XXX.XXX.XX.X
+        network XX.XX.X.X
+        broadcast XX.X.X.XXX
+        gateway XX.XX.XX.XX
+allow-hotplug eth0

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 9b4cfc3ee45e648ce857e76644925880
+timeCreated: 1497133159
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cowboyz_attack_0
+    21300002: cowboyz_attack_1
+    21300004: cowboyz_attack_2
+    21300006: cowboyz_attack_3
+    21300008: cowboyz_attack_4
+    21300010: cowboyz_attack_5
+    21300012: cowboyz_attack_6
+    21300014: cowboyz_attack_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cowboyz_attack_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 251
+        width: 48
+        height: 88
+      alignment: 9
+      pivot: {x: 0.53151053, y: 0.70400167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 55
+        height: 132
+      alignment: 9
+      pivot: {x: 0.44262752, y: 0.14794171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 230
+        width: 56
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4596111, y: 0.7674283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 47
+        height: 95
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.20407891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 76
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.27012688, y: 0.42381373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.7390683, y: 0.42925546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 109
+        height: 69
+      alignment: 9
+      pivot: {x: 0.70060134, y: 0.6082073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cowboyz_attack_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 109
+        height: 69
+      alignment: 9
+      pivot: {x: 0.30534014, y: 0.6057994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

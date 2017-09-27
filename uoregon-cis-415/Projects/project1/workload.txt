@@ -1,0 +1,5 @@
+./cputest
+echo "hello"
+date
+pwd
+whoami

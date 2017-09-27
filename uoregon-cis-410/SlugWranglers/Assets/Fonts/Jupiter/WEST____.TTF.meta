@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3b225433122ce4eb19c8710e9a5e8c8a
+timeCreated: 1493955365
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Western
+  fontNames:
+  - Western
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

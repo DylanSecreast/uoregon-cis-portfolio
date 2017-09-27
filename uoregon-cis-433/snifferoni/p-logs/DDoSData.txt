@@ -1,0 +1,111 @@
+udpTest.p
+
+Percentages :
+	Percent UDP : 99.81%
+	Percent TCP : 0%
+	Percent ICMP : 0%
+	Percent SYN : 0%
+
+Averages :
+	Average UDP : 4.75
+	Average TCP : 0.0
+	Average ICMP : 0.0
+	Average SYN : 0.0
+	Average Total : 970.75
+
+Packets captured :
+	Total Packets Captured : 182909
+	UDP Packets Captured : 182558
+	TCP Packets Captured : 121
+	ICMP Packets Captured : 176
+	SYN Packets Captured : 119
+
+UpperBound Outer captured :
+	Total Packets Captured : 1371.0
+	UDP Packets Captured : 5.75
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0
+
+UpperBound Inner captured :
+	Total Packets Captured : 1200.75
+	UDP Packets Captured : 5.375
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0
+
+  --------------------------------------------
+
+  pingTest.p
+
+  Percentages :
+	Percent UDP : 70.0%
+	Percent TCP : 0%
+	Percent ICMP : 0%
+	Percent SYN : 0%
+
+Averages :
+	Average UDP : 4.75
+	Average TCP : 0.0
+	Average ICMP : 0.0
+	Average SYN : 0.0
+	Average Total : 970.75
+
+Packets captured :
+	Total Packets Captured : 170
+	UDP Packets Captured : 119
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 16
+	SYN Packets Captured : 0
+
+UpperBound Outer captured :
+	Total Packets Captured : 1371.0
+	UDP Packets Captured : 5.75
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0
+
+UpperBound Inner captured :
+	Total Packets Captured : 1200.75
+	UDP Packets Captured : 5.375
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0
+
+--------------------------------------------
+
+synTest.p
+
+Percentages :
+	Percent UDP : 0.16%
+	Percent TCP : 0%
+	Percent ICMP : 0%
+	Percent SYN : 0%
+
+Averages :
+	Average UDP : 4.75
+	Average TCP : 0.0
+	Average ICMP : 0.0
+	Average SYN : 0.0
+	Average Total : 970.75
+
+Packets captured :
+	Total Packets Captured : 209978
+	UDP Packets Captured : 344
+	TCP Packets Captured : 209586
+	ICMP Packets Captured : 18
+	SYN Packets Captured : 209586
+
+UpperBound Outer captured :
+	Total Packets Captured : 1371.0
+	UDP Packets Captured : 5.75
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0
+
+UpperBound Inner captured :
+	Total Packets Captured : 1200.75
+	UDP Packets Captured : 5.375
+	TCP Packets Captured : 0
+	ICMP Packets Captured : 0
+	SYN Packets Captured : 0

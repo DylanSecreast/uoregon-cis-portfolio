@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 84ac6be7a186f4bb6889f3cae5fd30b0
+timeCreated: 1496374166
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slugSprites_0
+    21300002: slugSprites_1
+    21300004: slugSprites_2
+    21300006: slugSprites_3
+    21300008: slugSprites_4
+    21300010: slugSprites_5
+    21300012: slugSprites_6
+    21300014: slugSprites_7
+    21300016: slugSprites_8
+    21300018: slugSprites_9
+    21300020: slugSprites_10
+    21300022: slugSprites_11
+    21300024: slugSprites_12
+    21300026: slugSprites_13
+    21300028: slugSprites_14
+    21300030: slugSprites_15
+    21300032: slugSprites_16
+    21300034: slugSprites_17
+    21300036: slugSprites_18
+    21300038: slugSprites_19
+    21300040: slugSprites_20
+    21300042: slugSprites_21
+    21300044: slugSprites_22
+    21300046: slugSprites_23
+    21300048: slugSprites_24
+    21300050: slugSprites_25
+    21300052: slugSprites_26
+    21300054: slugSprites_27
+    21300056: slugSprites_28
+    21300058: slugSprites_29
+    21300060: slugSprites_30
+    21300062: slugSprites_31
+    21300064: slugSprites_32
+    21300066: slugSprites_33
+    21300068: slugSprites_34
+    21300070: slugSprites_35
+    21300072: slugSprites_36
+    21300074: slugSprites_37
+    21300076: slugSprites_38
+    21300078: slugSprites_39
+    21300080: slugSprites_40
+    21300082: slugSprites_41
+    21300084: slugSprites_42
+    21300086: slugSprites_43
+    21300088: slugSprites_44
+    21300090: slugSprites_45
+    21300092: slugSprites_46
+    21300094: slugSprites_47
+    21300096: slugSprites_48
+    21300098: slugSprites_49
+    21300100: slugSprites_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slugSprites_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5141
+        width: 680
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_1
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 5141
+        width: 678
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 5131
+        width: 666
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_3
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 5131
+        width: 647
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_4
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 5131
+        width: 667
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_5
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 5141
+        width: 681
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4502
+        width: 680
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 4502
+        width: 678
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 4491
+        width: 666
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_9
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 4491
+        width: 636
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_10
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 4491
+        width: 656
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_11
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 4502
+        width: 692
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3861
+        width: 680
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_13
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 3861
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 3861
+        width: 686
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_15
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 3861
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_16
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3861
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3261
+        width: 680
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3261
+        width: 678
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3252
+        width: 666
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_20
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 3252
+        width: 647
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_21
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 3252
+        width: 667
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_22
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3261
+        width: 681
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2622
+        width: 680
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_24
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2622
+        width: 678
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_25
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 2611
+        width: 666
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_26
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2611
+        width: 636
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_27
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 2611
+        width: 656
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_28
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 2622
+        width: 692
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1961
+        width: 680
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_30
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1961
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_31
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1961
+        width: 686
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1961
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_33
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1961
+        width: 686
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1332
+        width: 680
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_35
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1332
+        width: 678
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_36
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1321
+        width: 666
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_37
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 1321
+        width: 647
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_38
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 1321
+        width: 667
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_39
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1332
+        width: 681
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_40
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 691
+        width: 680
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_41
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 691
+        width: 678
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_42
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 682
+        width: 666
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_43
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 682
+        width: 636
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_44
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 682
+        width: 656
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_45
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 691
+        width: 692
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 207
+        width: 680
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_47
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 207
+        width: 686
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_48
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 207
+        width: 686
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_49
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 207
+        width: 686
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slugSprites_50
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 207
+        width: 686
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

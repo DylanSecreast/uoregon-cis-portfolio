@@ -1,0 +1,42 @@
+Dylan Secreast
+CIS 415 - Prof. Sventek
+Project 1 - USPS
+5/2/16
+
+Part 1:
+My uspsv1.c appears to run correctly when tested 
+against the provided cputest, iotest, and additional 
+unix calls. In addition, valgrind does not report any 
+errors when running the same workload text file nor 
+does the compiler report any errors or warnings.
+
+Part 2:
+My uspsv2.c runs correctly, initially sending SIGUSR1 
+to all child procs, stopping them with SIGSTOP, and 
+continuing them with SIGCONT. Finally, the parent 
+procs are waited on for a graceful exit. Valgrind 
+does not report any mem leaks or does the compiler 
+report any errors or warnings.
+
+Part 3:
+My uspsv3.c appears to run correctly when using the 
+same workload text file as parts 1 and 2, sharing 
+resources between all procs and thereby allowing the 
+simple unix calls to finish before the provided test 
+files. However, my final function to free the memory 
+allocated for my array of structs seems to cause a 
+fatal error reporting that there was a duplicate 
+memory free. All other free's work within the file 
+except for the final one and I unfortunately ran out 
+of time to patch that last thing. Nonetheless, the 
+compiler does not report any errors or warnings.
+
+Part 4:
+Despite my best attempt, I unfortunately ran out of 
+time to finish implementing part 4. I was able to 
+successfully gather the appropriate file paths for 
+each pid during initial execution and for each 
+update but am missing the implementation of p1getline 
+to iterate through the respective files in /proc/pid 
+to report relevant information. Finally, the compiler 
+does not report any errors or warnings.

@@ -1,0 +1,48 @@
+<template name="pending">
+
+    {{> pageHeading title='Pending Queue' }}
+
+    <div class="wrapper wrapper-content animated fadeInRight">
+        <!-- <div class="row">
+          <div class="col-md-12">
+              <div class="ibox">
+                  {{> googleMaps}}
+              </div>
+          </div>
+        </div> -->
+
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>Pending Requests</h5>
+                    {{> addPending}}
+                    <!-- {{>iboxTools}} -->
+                </div>
+                <div class="ibox-content">
+
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                          <th>Name</th>
+                          <th>UO ID</th>
+                          <th>Phone</th>
+                          <th>Pickup</th>
+                          <th>Dropoff</th>
+                          <th>Riders</th>
+                          <th>Pickup Time</th>
+                          <!-- <th>Submitted</th> -->
+                          <th>Action</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                          {{> pendingQueue}}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+          </div>
+        </div>
+
+    </div>
+</template>

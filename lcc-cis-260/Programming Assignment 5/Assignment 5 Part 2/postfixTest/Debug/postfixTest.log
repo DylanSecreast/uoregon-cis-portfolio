@@ -1,0 +1,22 @@
+﻿Build started 5/9/2014 11:01:44 PM.
+     1>Project "C:\Users\Dylan\Desktop\postfixTest\postfixTest\postfixTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt expression.cpp main.cpp stack.cpp
+         stack.cpp
+         main.cpp
+     1>c:\users\dylan\desktop\postfixtest\postfixtest\tree.h(3): error C2011: 'Tree' : 'class' type redefinition
+                 c:\users\dylan\desktop\postfixtest\postfixtest\tree.h(3) : see declaration of 'Tree'
+     1>c:\users\dylan\desktop\postfixtest\postfixtest\stack.h(4): error C2011: 'StackNode' : 'class' type redefinition
+                 c:\users\dylan\desktop\postfixtest\postfixtest\stack.h(4) : see declaration of 'StackNode'
+         expression.cpp
+     1>c:\users\dylan\desktop\postfixtest\postfixtest\tree.h(3): error C2011: 'Tree' : 'class' type redefinition
+                 c:\users\dylan\desktop\postfixtest\postfixtest\tree.h(3) : see declaration of 'Tree'
+     1>c:\users\dylan\desktop\postfixtest\postfixtest\expression.cpp(60): error C2027: use of undefined type 'Tree'
+                 c:\users\dylan\desktop\postfixtest\postfixtest\tree.h(3) : see declaration of 'Tree'
+     1>c:\users\dylan\desktop\postfixtest\postfixtest\expression.cpp(60): fatal error C1903: unable to recover from previous error(s); stopping compilation
+         Generating Code...
+     1>Done Building Project "C:\Users\Dylan\Desktop\postfixTest\postfixTest\postfixTest.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46
